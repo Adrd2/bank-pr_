@@ -1,0 +1,3 @@
+delete from anti_fraud.suspicious_account_transfer;
+delete from anti_fraud.suspicious_card_transfer;
+delete from anti_fraud.suspicious_phone_transfer;
